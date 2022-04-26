@@ -1,0 +1,51 @@
+key = value
+
+creation probability
+SHARK_CREATION_PROBABILITY =0.025
+TUNA_CREATION_PROBABILITY =0.0501
+SMALL_FISH_CREATION_PROBABILITY =0.09
+HELPER_FISH_CREATION_PROBABILITY =0.16
+WHALE_CREATION_PROBABILITY =0.0012
+PLANT_CREATION_PROBABILITY = 0.09
+
+diseaseProbability =0.1
+
+startingFoodLevel =10
+
+Shark
+sharkBreedingAge =6
+sharkMaxAge =300
+sharkBreedingProbability =0.555
+sharkMaxLitterSize =3
+
+Tuna
+tunaBreedingAge =3
+tunaMaxAge =65
+tunaBreedingProbability =0.45
+tunaMaxLitterSize =3
+tunaNutritionalValue =25
+
+Helper fish
+helperBreedingAge =5
+helperMaxAge =40
+helperBreedingProbability =0.59
+helperMaxLitterSize =5
+helperNutritionalValue =15
+
+Small fish
+smallBreedingAge =5
+smallMaxAge =20
+smallBreedingProbability =0.075
+smallMaxLitterSize =4
+smallNutritionalValue =20
+
+Whale
+whaleMaxAge =700
+whaleMaxLitterSize =1
+whaleDiseaseLimit =80
+whaleBreedingAge =10
+
+Plant
+plantRegrowthProbability =0.25
+plantMaxSeed =2
+maxTimesEaten =5
